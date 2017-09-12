@@ -30,8 +30,9 @@
     background-color: #f8ffcd;
     color: #786454;
     text-align: center;
-    border-bottom: 2px solid #ade6e6; 
-    border-left: 2px solid #ade6e6;
+    border: 1px solid black;
+    /*border-bottom: 2px solid #ade6e6; 
+    border-left: 2px solid #ade6e6;*/
     /*border-top-style: none;
     border-right-style: none;*/
     width: 40%; /*PLEASE SPECIFY FOR EACH SIZE WITHIN MEDIA QUERIES*/
